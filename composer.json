@@ -1,5 +1,5 @@
 {
-    "name": "stephenr85/user_group_attribute",
+    "name": "remo/user_group_attribute",
     "type": "concrete5-package",    
     "keywords": ["concrete5"],    
     "require": {
